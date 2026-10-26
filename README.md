@@ -1,4 +1,4 @@
-## Hello & Servus 👋
+## Hello 👋
 
 I'm Susanne, a PhD student at [Eindhoven University of Technology (TU/e)](https://www.tue.nl/en/). I work at the intersection of **cyber threat intelligence** and **machine learning**: turning messy, informal text from underground communities into structured knowledge.
 
